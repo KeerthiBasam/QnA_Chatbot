@@ -2,11 +2,9 @@ langchain
 langchain-community
 python-dotenv
 ipykernel
-langchain-openai
 langchain-groq
 langchain_core
 langchain-huggingface
 sentence-transformers
-langchain-chroma
 numpy
 bs4
